@@ -1,0 +1,78 @@
+2022-08-22 20:19:25.717  INFO 276284 --- [main] c.j.elk.ElkStackExampleApplication       : Starting ElkStackExampleApplication on DESKTOP-J9AI17U with PID 276284 (D:\ELK_Stack8\elk-stack-example\target\classes started by Jhianpol in D:\ELK_Stack8\elk-stack-example)
+2022-08-22 20:19:25.725  INFO 276284 --- [main] c.j.elk.ElkStackExampleApplication       : No active profile set, falling back to default profiles: default
+2022-08-22 20:19:29.617  INFO 276284 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 9898 (http)
+2022-08-22 20:19:29.649  INFO 276284 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-08-22 20:19:29.650  INFO 276284 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.33]
+2022-08-22 20:19:29.928  INFO 276284 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-08-22 20:19:29.931  INFO 276284 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 4059 ms
+2022-08-22 20:19:30.680  INFO 276284 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2022-08-22 20:19:31.079  INFO 276284 --- [main] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2022-08-22 20:19:31.124  INFO 276284 --- [main] ConditionEvaluationReportLoggingListener : 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2022-08-22 20:19:31.128 ERROR 276284 --- [main] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 9898 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 9898 or configure this application to listen on another port.
+
+2022-08-22 20:19:31.133  INFO 276284 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2022-08-22 20:23:19.405  INFO 272212 --- [main] c.j.elk.ElkStackExampleApplication       : Starting ElkStackExampleApplication on DESKTOP-J9AI17U with PID 272212 (D:\ELK_Stack8\elk-stack-example\target\classes started by Jhianpol in D:\ELK_Stack8\elk-stack-example)
+2022-08-22 20:23:19.418  INFO 272212 --- [main] c.j.elk.ElkStackExampleApplication       : No active profile set, falling back to default profiles: default
+2022-08-22 20:23:29.079  INFO 272212 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 9898 (http)
+2022-08-22 20:23:29.123  INFO 272212 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-08-22 20:23:29.124  INFO 272212 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.33]
+2022-08-22 20:23:29.477  INFO 272212 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-08-22 20:23:29.478  INFO 272212 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 9792 ms
+2022-08-22 20:23:29.981  INFO 272212 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2022-08-22 20:23:30.560  INFO 272212 --- [main] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2022-08-22 20:23:30.588  INFO 272212 --- [main] ConditionEvaluationReportLoggingListener : 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2022-08-22 20:23:30.592 ERROR 272212 --- [main] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 9898 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 9898 or configure this application to listen on another port.
+
+2022-08-22 20:23:30.599  INFO 272212 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2022-08-22 20:25:53.563  INFO 277196 --- [main] c.j.elk.ElkStackExampleApplication       : Starting ElkStackExampleApplication on DESKTOP-J9AI17U with PID 277196 (D:\ELK_Stack8\elk-stack-example\target\classes started by Jhianpol in D:\ELK_Stack8\elk-stack-example)
+2022-08-22 20:25:53.571  INFO 277196 --- [main] c.j.elk.ElkStackExampleApplication       : No active profile set, falling back to default profiles: default
+2022-08-22 20:25:57.324  INFO 277196 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 9898 (http)
+2022-08-22 20:25:57.360  INFO 277196 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-08-22 20:25:57.361  INFO 277196 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.33]
+2022-08-22 20:25:57.672  INFO 277196 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-08-22 20:25:57.673  INFO 277196 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 3972 ms
+2022-08-22 20:25:58.201  INFO 277196 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2022-08-22 20:25:58.877  INFO 277196 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 9898 (http) with context path ''
+2022-08-22 20:25:58.904  INFO 277196 --- [main] c.j.elk.ElkStackExampleApplication       : Started ElkStackExampleApplication in 6.811 seconds (JVM running for 9.737)
+2022-08-22 20:27:10.320  INFO 277196 --- [http-nio-9898-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-08-22 20:27:10.347  INFO 277196 --- [http-nio-9898-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2022-08-22 20:27:11.489  INFO 277196 --- [http-nio-9898-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1138 ms
+2022-08-22 20:27:11.893  INFO 277196 --- [http-nio-9898-exec-1] c.j.elk.ElkStackExampleApplication       : user found : User(id=1, name=John)
+2022-08-22 20:27:24.976  INFO 277196 --- [http-nio-9898-exec-5] c.j.elk.ElkStackExampleApplication       : user found : User(id=1, name=John)
+2022-08-22 20:42:30.394  INFO 277196 --- [http-nio-9898-exec-5] c.j.elk.ElkStackExampleApplication       : user found : User(id=2, name=Shyam)
+2022-08-22 20:49:32.522 ERROR 277196 --- [http-nio-9898-exec-9] c.j.elk.ElkStackExampleApplication       : User Not Found with ID : 5
+2022-08-22 20:50:31.223 ERROR 277196 --- [http-nio-9898-exec-7] c.j.elk.ElkStackExampleApplication       : User Not Found with ID : 6
+2022-08-22 20:52:19.277  INFO 277196 --- [http-nio-9898-exec-1] c.j.elk.ElkStackExampleApplication       : user found : User(id=1, name=John)
+2022-08-22 20:57:30.087  INFO 277196 --- [http-nio-9898-exec-10] c.j.elk.ElkStackExampleApplication       : user found : User(id=2, name=Shyam)
+2022-08-22 20:58:26.573  INFO 277196 --- [http-nio-9898-exec-4] c.j.elk.ElkStackExampleApplication       : user found : User(id=1, name=John)
+2022-08-22 20:58:39.312 ERROR 277196 --- [http-nio-9898-exec-2] c.j.elk.ElkStackExampleApplication       : User Not Found with ID : 5
+2022-08-22 20:59:08.497  INFO 277196 --- [http-nio-9898-exec-5] c.j.elk.ElkStackExampleApplication       : user found : User(id=2, name=Shyam)
+2022-08-22 21:03:36.037  INFO 277196 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'

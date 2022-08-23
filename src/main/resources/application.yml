@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: ELK-STACK-EXAMPLE
+
+server:
+  port: 9898
+
+logging:
+  file: D:\ELK_Stack8\elk-stack-example\logstash\logstash.log
+  #http://localhost:9898/getUser/1
